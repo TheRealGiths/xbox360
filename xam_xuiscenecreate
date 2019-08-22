@@ -1,0 +1,7 @@
+function: xam import (855) XuiSceneCreate
+
+long XuiSceneCreate(wchar_t* r3, wchar_t* r4, void* r5, HXUIOBJ* r6)
+{
+	XuiSceneCreate(r3, r4, r5, r6);l
+  return 0;
+}
